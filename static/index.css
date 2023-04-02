@@ -1,0 +1,112 @@
+html {
+    text-align: center;
+    background-color: #282c34;
+    color: white;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /*font-size: calc(10px + 2vmin);
+    color: white;
+    font-family: 'Poppins',sans-serif;*/
+    /*font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;*/
+  }
+  
+  .kneeHeader{
+    font-size: 20vw;
+    color: white;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 400;
+  }
+  
+  .description{
+    font-size: 4vw;
+    color: white;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 200;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  
+  
+  .pre_img{
+    height: 600px;
+    width: 600px;
+    /* background-color: white; */
+  }
+  
+  input[type=file]{
+    background-color: #a5ffff;;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  
+    font-family: 'Poppins',sans-serif;
+    font-weight: 200;
+  
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin: 40px 40px;
+  
+    border-radius: 25px;
+    /* display: none; */
+  
+  }
+  
+  #sendbutton{
+    border-radius: 15px;
+    background: #6de8e8;
+    outline: none;
+    /*border: 2px solid #6de8e8;*/
+    border:none;
+    padding: 5px;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 200;
+    width: 150px;
+    box-shadow: 0 8px #999;
+    cursor: pointer;
+    
+  }
+  
+  #sendbutton:hover {background-color: #12b0b0}
+  
+  #sendbutton:active {
+    background-color: #12b0b0;
+    box-shadow: 0 4px #666;
+    transform: translateY(4px);
+  }
+  
+  
+  
+  #pre{
+    background-color: #a5ffff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin: 10px 40px;
+  }
+  
+  p{
+    /*margin: 50px;*/
+    margin: 20px;
+    font-size: 72px;
+  }
+  
