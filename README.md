@@ -6,10 +6,10 @@ A Deep Learning model using enhanced YOLOv3 object detection algorithm to detect
 
 ### Process
 
-*Pre-processing to reduce noise, grain etc.
-*CLAHE
-*Enhanced YOLOv3 for knee joint detection and classification
-*Output KL grade/ class with confidence score
+- Pre-processing to reduce noise, grain etc.
+- CLAHE
+- Enhanced YOLOv3 for knee joint detection and classification
+- Output KL grade/ class with confidence score
 
 ## Author
 
